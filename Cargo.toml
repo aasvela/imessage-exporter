@@ -3,6 +3,7 @@ members = [
   "imessage-database",
   "imessage-exporter",
 ]
+imessage-database = "1.4.0"
 
 [profile.release]
 # Perform Link Time Optimization

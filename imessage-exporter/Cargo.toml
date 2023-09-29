@@ -8,6 +8,7 @@ license = "GPL-3.0-or-later"
 name = "imessage-exporter"
 repository = "https://github.com/ReagentX/imessage-exporter"
 version = "0.0.0"
+imessage-database = "1.4.0"
 
 [dependencies]
 clap = {version = "3.2.23", features = ["cargo"]}
